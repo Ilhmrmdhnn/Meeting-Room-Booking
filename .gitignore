@@ -1,0 +1,16 @@
+# Lingkungan virtual Python
+lenv/
+
+# Berkas-berkas sementara Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Berkas sistem dan IDE
+.DS_Store
+.vscode/
+.idea/          # Jika Anda menggunakan PyCharm atau IntelliJ IDEA
+*.log
+
+# File konfigurasi lokal
+*.env
